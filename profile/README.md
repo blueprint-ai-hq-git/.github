@@ -11,6 +11,11 @@ Every claim in this organisation ships with the measurement behind it — **incl
 
 </div>
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/blueprint-ai-hq-git/glassnet/main/docs/assets/model-card.png" alt="GlassNet model card" width="100%">
+</p>
+
 ---
 
 ## What we are building
